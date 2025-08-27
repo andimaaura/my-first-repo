@@ -1,1 +1,5 @@
 # my-first-repo
+
+NAMA : ANDI MAURA AZZZAHRA
+NPM : 2406409076
+KELAS : PBP C
